@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning web development
 - 💞️ In Project collaboration with @itzr00tbyte
-- 📫 How to reach me e-mail
+
 
 <!---
 Prathyukatta/Prathyukatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
