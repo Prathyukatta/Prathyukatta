@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prathyukatta
+- 👋 Hi, I’m @Prathyusha
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning web development
 - 💞️ In Project collaboration with @itzr00tbyte
