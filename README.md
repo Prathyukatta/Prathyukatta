@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Prathyusha
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning web development
-- 💞️ In Project collaboration with @itzr00tbyte
+👋 Hi, I’m @Prathyusha
+Here are some ideas to get you started:
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning Full stack web development
+- 👯 I’m looking to collaborate on @itzr00tbyte
+- 💬 Ask me about frontend 
+- 📫 How to reach me: prathyushakatta1@gmail.com
+- ⚡ Fun fact: 🌱
+-->
+  
+
 
 
 <!---
