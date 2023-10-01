@@ -1,4 +1,4 @@
-👋 Hi, I’m @Prathyusha
+<-- 👋 Hi, I’m @Prathyusha
 Here are some ideas to get you started:
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Full stack web development
