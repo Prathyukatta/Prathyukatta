@@ -2,8 +2,7 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Full stack web development
-- 👯 I’m looking to collaborate on @itzr00tbyte
-- 💬 Ask me about frontend 
+- 💬 Ask me about frontend development 
 - 📫 How to reach me: prathyushakatta1@gmail.com
 - ⚡ Fun fact: 🌱
 -->
